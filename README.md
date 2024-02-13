@@ -28,7 +28,3 @@ src="https://img.shields.io/github/followers/sethshivam11?logo=github&style=for-
 ### Badges
 
 <a href="https://github.com/sethshivam11" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethshivam11&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/sethshivam11/todo" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sethshivam11&repo=todo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/sethshivam11/gadgetstore" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sethshivam11&repo=gadgetstore&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
