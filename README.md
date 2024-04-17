@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1>
-<h3 align="center">A passionate MERN Developer</h3>
+<h3 align="center">A passionate Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sethshivam11&label=Profile%20views&color=0e75b6&style=flat" alt="sethshivam11" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sethshivam11" target="blank"><img src="https://img.shields.io/twitter/follow/sethshivam11?logo=twitter&style=for-the-badge" alt="sethshivam11" /></a> </p>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [https://shivam.cyclic.app](https://shivam.cyclic.app)
 
