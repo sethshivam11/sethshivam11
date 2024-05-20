@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://shivam.cyclic.app](https://shivam.cyclic.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://shivam.up.railway.app)
 
 - 💬 Ask me about **React, Node, Express and Typescript**
 
