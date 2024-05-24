@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://shivam.up.railway.app)
+- 👨‍💻 My projects are available at [Portfolio](https://sethshivam.vercel.app)
 
 - 💬 Ask me about **React, Node, Express and Typescript**
 
-- 📫 How to reach me **legendshivam11.gmail.com**
+- 📫 Contact me [**Email**](mailto:legendshivam11.gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
