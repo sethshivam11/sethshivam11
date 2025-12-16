@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning *NextJS*
 
-- 👨‍💻 My projects are available at [Portfolio](https://devshivam.tech)
+- 👨‍💻 My projects are available at [Portfolio](https://dev-shivam.in)
 
 - 💬 Ask me about *React, Node, Express and Typescript*
 
